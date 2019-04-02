@@ -1,2 +1,3 @@
-# independent-study
-final project
+# independent-study: D3.js
+
+entry
