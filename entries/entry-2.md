@@ -5,6 +5,9 @@ So through the week I searched more on D3.js, so I have been experimenting and u
 <p align = "center">
   <img src = "jsbinexample.png" width="500" height="377">
 </p>
+^oh yea just click on the photo or go to it's file since its a long photo.
+<br><br>
+
 
 I learned how to use D3.js, it's very similar to CSS but you use it in javascript, it has a lot different 
 attributes of html, css, and SVG,which stands for Scalable Vector Graphics which is technically an XML based 
