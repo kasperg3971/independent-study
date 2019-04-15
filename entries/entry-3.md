@@ -85,19 +85,29 @@ here's a snippet
 Here's also my code camp code :
 
 <p align = "center">
-  <img src = "d3help.PNG" width="500" height="377">
+  <img src = "d3help.PNG" width="700" height="377">
 </p>
 
-
+So yes I have been tinkering with it a lot this week and learned more of it.
 
 ### Plan for this week
 
+So last week I said I would have an idea of what I would make, so yes I have an idea of what I would make with d3.js a data graph, but this week I'm going to keep tinkering and think of what kind of data graph I will make.
 
 
 ### Takeaways:
-put a lot effort into this s
 
+<p align = "center">
+  <img src = "gifd3.gif" width="700" height="377">
+</p>
 
+Just keep tinkering, just keep tinkering!
+
+Keep tinkering and have your idea of what to make ready, so while you tinker more, you add on to your project.
+Keep searching things up, if you need help google is your best friend.
+ <p align = "center">
+  <img src = "googlefriend.PNG" width="500" height="377">
+</p>
 
 #### sources:
 
