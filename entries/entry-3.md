@@ -94,7 +94,7 @@ I was using google as my friend when needed help. And got a better understanding
 ### Plan for this week
 
 So last week I said I would have an idea of what I would make, so yes I have an idea of what I would make with d3.js a data graph, but this week I'm going to keep tinkering and think of what kind of data graph I will make.
- My goal for this week is to have a final idea of what kind of data graph I should make and it's gonna be final by Monday Night
+ My goal for this week is to have a final idea of what kind of data graph I should make and it's gonna be final by Monday night.
 
 ### Takeaways:
 
