@@ -5,7 +5,7 @@ So through the week I searched more on D3.js, so I have been experimenting and u
 <p align = "center">
   <img src = "jsbinexample.png" width="500" height="377">
 </p>
-^oh yea just click on the photo or go to it's file since its a long photo.
+^oh yeah just click on the photo or go to it's file since its a long photo.
 <br><br>
 
 
