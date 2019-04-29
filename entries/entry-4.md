@@ -7,7 +7,7 @@ I learned the ways having it interact with mouse. I have a more clear picture on
   <img src = "scatterplot1.PNG" width="700" height="377">
 </p>
  <p align = "center">
-  <img src = "bargraph.PNG" width="400" height="300">
+  <img src = "bargraph.PNG" width="200" height="200">
 </p>
 
 ### Plan for this week
