@@ -4,10 +4,10 @@
 So through out this week I was tinkering with d3.js and learned more on making bar graphs, linear scales, and scatter plots.
 I learned the ways having it interact with mouse. I have a more clear picture on how to use D3.js
  <p align = "center">
-  <img src = "scatterplot1.PNG" width="700" height="377">
+  <img src = "scatterplot1.PNG" width="500" height="377">
 </p>
  <p align = "center">
-  <img src = "bargraph.PNG" width="200" height="200">
+  <img src = "bargraph.PNG" width="300" height="300">
 </p>
 
 ### Plan for this week
