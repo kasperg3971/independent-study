@@ -22,4 +22,3 @@ I have learned about all the the projects you can make with D3.js, my goal is to
 So whenever you start researching a new language, evereryday keep tinkering with it
 just have your mind active with the language, always try something new with it just to have different ideas of what kind of things you can create
 with it before you choose your final idea of what to make with it.
-
