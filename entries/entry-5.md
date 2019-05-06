@@ -5,7 +5,7 @@
 So thought about what I was going to do as my topic for my d3 data graph.
 And a throwback i remembered was when we used json and datasets so I used NYC Open Data to check what Data I could use that I wanted and other sites also.
  <p align = "center">
-  <img src = "jsondata.PNG" width="400" height="700">
+  <img src = "jsondata.PNG" width="600" height="700">
 </p>
  So I was mainly looking for datasets to use but using JSON.
  
