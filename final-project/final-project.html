@@ -1,14 +1,38 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Final D3 Project</title>
+<head>
+  <meta charset="utf-8">
+  <title>D3 Bin</title>
+</head>
+<body>
+    <script src="https://d3js.org/d3.v4.min.js"></script> 
+ <script>
+   
+  const dataset = [12, 31, 22, 17, 25, 18, 29, 14, 9];
     
+    const w = 500;
+    const h = 100;
+    
+    const svg = d3.select("body")
+                  .append("svg")
+                  .attr("width", w)
+                  .attr("height", h);
+    
+    svg.selectAll("rect")
+      .data(dataset)
+      .enter()
+      .append("rect")
+      .attr("x", (d, i) => i * 30)
+      .attr("y", (d, i) => h - 3 * d)
+      .attr("width", 25)
+      .attr("height", (d, i) => 3 * d)
 
-  </head>
-  <body>
-    <script src="final-project.js"></script>
+.attr("fill", function(d) {
+    return "rgb(0,"+ (d * 10) + ", " + (d * 2) + ")";
+}); 
+  d3.json
+ </script>
 
 
-  </body>
+</body>
 </html>

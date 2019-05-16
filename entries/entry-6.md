@@ -7,7 +7,7 @@ Data!! It's great to play around with data, but too much data can take time to l
  
 ### Plan for this week:
 
-Keep working on my project have it doen by next week.
+Keep working on my project have it done by next week.
 
 
 ### Takeaways:
